@@ -15,7 +15,7 @@ The resulting plot shows how the three different species of iris flowers are sep
 
 This project can serve as a starting point for further data analysis and machine learning tasks involving the Iris dataset 🚀. The PCA analysis and visualization can be used to identify the most important features for classification tasks, or to explore the relationships between different features in more detail 🧐.
 
-To run the code in this project, simply download the iris_pca.py file and run it using Python 🐍. The output will be a scatter plot of the transformed Iris dataset 📈👀.
+To run the code in this project, simply download the source file file and run it using Python 🐍. The output will be a scatter plot of the transformed Iris dataset 📈👀.
 
 Twitter @DanielRizvi LinkedIn @DanielRizvi Instagram @danielrizvi_
 
